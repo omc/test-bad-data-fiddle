@@ -1,6 +1,6 @@
 solr_home: solr_home
 webapp: app
 datasets: 
-	default: nfl2012.csv
+  default: nfl2012.csv
 allow:
-	- /select\?.*
+  - /select\?.*
