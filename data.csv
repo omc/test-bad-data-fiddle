@@ -1,4 +1,4 @@
-id,qtr_it,min_it,sec_it,off_s,def_s,down_it,togo_it,ydline_it,scorediff_it,series1stdn_it,text,scorechange_it,nextscore_it,teamwin_it,offscore_it,defscore_it,season_it
+gameid_ss,qtr_it,min_it,sec_it,off_s,def_s,down_it,togo_it,ydline_it,scorediff_it,series1stdn_it,text,scorechange_it,nextscore_it,teamwin_it,offscore_it,defscore_it,season_it
 20120905_DAL@NYG,1,0,0,DAL,NYG,0,0,0,0,0,D.Bailey kicks 69 yards from DAL 35 to NYG -4. D.Wilson to NYG 16 for 20 yards (A.Holmes).,0,-3,1,0,0,2012
 20120905_DAL@NYG,1,59,56,NYG,DAL,1,10,84,0,0,(14:56) E.Manning pass incomplete deep left to H.Nicks.,0,3,0,0,0,2012
 20120905_DAL@NYG,1,59,49,NYG,DAL,2,10,84,0,0,(14:49) E.Manning pass short middle to V.Cruz to NYG 21 for 5 yards (S.Lee) [J.Hatcher].,0,3,0,0,0,2012
