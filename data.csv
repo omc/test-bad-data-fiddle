@@ -44,27 +44,27 @@ id,qtr_it,min_it,sec_it,off_s,def_s,down_it,togo_it,ydline_it,scorediff_it,serie
 20120905_DAL@NYG,2,40,05,NYG,DAL,2,3,3,0,0,(10:05) A.Bradshaw left tackle to DAL 4 for -1 yards (M.Spears J.Price-Brent).,0,3,0,0,0,2012
 20120905_DAL@NYG,2,39,23,NYG,DAL,3,4,4,0,0,(9:23) (Shotgun) E.Manning pass incomplete short middle to V.Cruz (O.Scandrick).,0,3,0,0,0,2012
 20120905_DAL@NYG,2,39,14,NYG,DAL,4,4,4,0,0,(9:14) L.Tynes 22 yard field goal is GOOD Center-Z.DeOssie Holder-S.Weatherford.,3,3,0,0,0,2012
-20120905_DAL@NYG,2,39,14,NYG,DAL,0,0,4,3,0,L.Tynes kicks 67 yards from NYG 35 to DAL -2. F.Jones to DAL 20 for 22 yards (W.Hill).,0,-7,0,3,0 ,2012
-20120905_DAL@NYG,2,39,05,DAL,NYG,1,10,80,-3,1,(9:05) D.Murray right tackle to DAL 22 for 2 yards (M.Coe K.Rivers).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,38,33,DAL,NYG,2,8,78,-3,1,(8:33) T.Romo pass short left to J.Hanna to DAL 32 for 10 yards (K.Rivers).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,37,59,DAL,NYG,1,10,68,-3,0,(7:59) D.Murray right tackle to DAL 35 for 3 yards (R.Bernard J.Pierre-Paul).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,37,20,DAL,NYG,2,7,65,-3,0,(7:20) PENALTY on DAL-D.Free False Start 5 yards enforced at DAL 35 - No Play.,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,36,52,DAL,NYG,2,12,70,-3,0,(6:52) D.Murray left guard to DAL 27 for -3 yards (J.Pierre-Paul).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,36,06,DAL,NYG,3,15,73,-3,0,(6:06) (Shotgun) T.Romo pass short left to K.Ogletree to DAL 36 for 9 yards (M.Coe).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,35,28,DAL,NYG,4,6,64,-3,0,(5:28) C.Jones punts 48 yards to NYG 16 Center-L.Ladouceur fair catch by D.Hixon.,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,35,18,NYG,DAL,1,10,84,3,0,(5:18) A.Bradshaw left guard to NYG 16 for no gain (B.Carter).,0,-7,0,3,0 ,2012
-20120905_DAL@NYG,2,34,37,NYG,DAL,2,10,84,3,0,(4:37) A.Bradshaw right end to NYG 18 for 2 yards (K.Coleman A.Spencer).,0,-7,0,3,0 ,2012
-20120905_DAL@NYG,2,33,50,NYG,DAL,3,8,82,3,0,(3:50) (Shotgun) E.Manning pass incomplete deep right to M.Bennett.,0,-7,0,3,0 ,2012
-20120905_DAL@NYG,2,33,42,NYG,DAL,4,8,82,3,0,(3:42) S.Weatherford punts 54 yards to DAL 28 Center-Z.DeOssie. D.Bryant ran ob at DAL 27 for -1 yards.,0,-7,0,3,0 ,2012
-20120905_DAL@NYG,2,33,34,DAL,NYG,1,10,73,-3,1,(3:34) PENALTY on DAL-T.Smith False Start 5 yards enforced at DAL 27 - No Play.,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,33,34,DAL,NYG,1,15,78,-3,1,(3:34) T.Romo pass short left to D.Bryant ran ob at DAL 35 for 13 yards.,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,33,11,DAL,NYG,2,2,65,-3,1,(3:11) T.Romo pass short left to J.Witten to DAL 38 for 3 yards (C.Blackburn M.Coe).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,32,34,DAL,NYG,1,10,62,-3,1,(2:34) D.Murray left guard to DAL 47 for 9 yards (K.Phillips).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,32,04,DAL,NYG,2,1,53,-3,1,(2:04) T.Romo pass incomplete short right to K.Ogletree.,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,31,59,DAL,NYG,3,1,53,-3,1,(1:59) (Shotgun) T.Romo pass deep right to D.Bryant to NYG 15 for 38 yards (K.Phillips).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,31,15,DAL,NYG,1,10,15,-3,1,(1:15) (Shotgun) T.Romo pass short right to K.Ogletree to NYG 10 for 5 yards (J.Williams).,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,31,07,DAL,NYG,2,5,10,-3,1,(1:07) (Shotgun) T.Romo pass short middle to K.Ogletree for 10 yards TOUCHDOWN.,0,7,1,0 ,3,2012
-20120905_DAL@NYG,2,31,07,DAL,NYG,0,0,10,-3,0,D.Bailey extra point is GOOD Center-L.Ladouceur Holder-C.Jones.,7,7,1,0 ,3,2012
+20120905_DAL@NYG,2,39,14,NYG,DAL,0,0,4,3,0,L.Tynes kicks 67 yards from NYG 35 to DAL -2. F.Jones to DAL 20 for 22 yards (W.Hill).,0,-7,0,3,0,2012
+20120905_DAL@NYG,2,39,05,DAL,NYG,1,10,80,-3,1,(9:05) D.Murray right tackle to DAL 22 for 2 yards (M.Coe K.Rivers).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,38,33,DAL,NYG,2,8,78,-3,1,(8:33) T.Romo pass short left to J.Hanna to DAL 32 for 10 yards (K.Rivers).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,37,59,DAL,NYG,1,10,68,-3,0,(7:59) D.Murray right tackle to DAL 35 for 3 yards (R.Bernard J.Pierre-Paul).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,37,20,DAL,NYG,2,7,65,-3,0,(7:20) PENALTY on DAL-D.Free False Start 5 yards enforced at DAL 35 - No Play.,0,7,1,0,3,2012
+20120905_DAL@NYG,2,36,52,DAL,NYG,2,12,70,-3,0,(6:52) D.Murray left guard to DAL 27 for -3 yards (J.Pierre-Paul).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,36,06,DAL,NYG,3,15,73,-3,0,(6:06) (Shotgun) T.Romo pass short left to K.Ogletree to DAL 36 for 9 yards (M.Coe).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,35,28,DAL,NYG,4,6,64,-3,0,(5:28) C.Jones punts 48 yards to NYG 16 Center-L.Ladouceur fair catch by D.Hixon.,0,7,1,0,3,2012
+20120905_DAL@NYG,2,35,18,NYG,DAL,1,10,84,3,0,(5:18) A.Bradshaw left guard to NYG 16 for no gain (B.Carter).,0,-7,0,3,0,2012
+20120905_DAL@NYG,2,34,37,NYG,DAL,2,10,84,3,0,(4:37) A.Bradshaw right end to NYG 18 for 2 yards (K.Coleman A.Spencer).,0,-7,0,3,0,2012
+20120905_DAL@NYG,2,33,50,NYG,DAL,3,8,82,3,0,(3:50) (Shotgun) E.Manning pass incomplete deep right to M.Bennett.,0,-7,0,3,0,2012
+20120905_DAL@NYG,2,33,42,NYG,DAL,4,8,82,3,0,(3:42) S.Weatherford punts 54 yards to DAL 28 Center-Z.DeOssie. D.Bryant ran ob at DAL 27 for -1 yards.,0,-7,0,3,0,2012
+20120905_DAL@NYG,2,33,34,DAL,NYG,1,10,73,-3,1,(3:34) PENALTY on DAL-T.Smith False Start 5 yards enforced at DAL 27 - No Play.,0,7,1,0,3,2012
+20120905_DAL@NYG,2,33,34,DAL,NYG,1,15,78,-3,1,(3:34) T.Romo pass short left to D.Bryant ran ob at DAL 35 for 13 yards.,0,7,1,0,3,2012
+20120905_DAL@NYG,2,33,11,DAL,NYG,2,2,65,-3,1,(3:11) T.Romo pass short left to J.Witten to DAL 38 for 3 yards (C.Blackburn M.Coe).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,32,34,DAL,NYG,1,10,62,-3,1,(2:34) D.Murray left guard to DAL 47 for 9 yards (K.Phillips).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,32,04,DAL,NYG,2,1,53,-3,1,(2:04) T.Romo pass incomplete short right to K.Ogletree.,0,7,1,0,3,2012
+20120905_DAL@NYG,2,31,59,DAL,NYG,3,1,53,-3,1,(1:59) (Shotgun) T.Romo pass deep right to D.Bryant to NYG 15 for 38 yards (K.Phillips).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,31,15,DAL,NYG,1,10,15,-3,1,(1:15) (Shotgun) T.Romo pass short right to K.Ogletree to NYG 10 for 5 yards (J.Williams).,0,7,1,0,3,2012
+20120905_DAL@NYG,2,31,07,DAL,NYG,2,5,10,-3,1,(1:07) (Shotgun) T.Romo pass short middle to K.Ogletree for 10 yards TOUCHDOWN.,0,7,1,0,3,2012
+20120905_DAL@NYG,2,31,07,DAL,NYG,0,0,10,-3,0,D.Bailey extra point is GOOD Center-L.Ladouceur Holder-C.Jones.,7,7,1,0,3,2012
 20120905_DAL@NYG,2,31,07,DAL,NYG,0,0,10,4,0,D.Bailey kicks 67 yards from DAL 35 to NYG -2. D.Wilson to NYG 30 for 32 yards (B.Church).,0,0,1,7 ,3,2012
 20120905_DAL@NYG,2,30,54,NYG,DAL,1,10,70,-4,0,(:54) (Shotgun) E.Manning pass incomplete short left to V.Cruz.,0,0,0,3,7 ,2012
 20120905_DAL@NYG,2,30,48,NYG,DAL,2,10,70,-4,0,(:48) (Shotgun) E.Manning sacked at NYG 24 for -6 yards (D.Ware).,0,0,0,3,7 ,2012
