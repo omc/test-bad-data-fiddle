@@ -1,0 +1,4 @@
+title: Sunspot
+description: Standard setup for Sunspot, with a little bit of NFL game data
+data: data.csv
+conf: conf
