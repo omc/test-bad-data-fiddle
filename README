@@ -1,8 +1,1 @@
-This is a SolrFiddle package for Sunspot.  
-
-contents/
-	Fiddlefile -- manifest file
-  data.csv   -- data to index.  Limited to 1k rows, 100 columns.
-  conf       -- a Solr core configuration directory
-  Makefile   -- used to build this from the Sunspot source
-  README     -- this!
+This is a SolrFiddle package used in integration tests.
